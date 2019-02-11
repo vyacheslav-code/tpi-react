@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#title{
+  font-family: 'Monofett', cursive;
+}
+
+.content{
+  margin-top: 21em;
+padding-left: 1em;
+  padding-right: 3em;
+}
